@@ -6,10 +6,10 @@ Find the google sheet [scratchpad here](https://docs.google.com/spreadsheets/d/1
 
 Google Doc Physics - High School [here](https://docs.google.com/document/d/1-YAGSm3_zRU5Tm06-2tJ6YsAU9371S-G_iQqJW7PIrk/edit?tab=t.0#heading=h.bvah1lgwrbey)
 
-Google Doc Physics - High School 
 
-Google Doc Physics - Middle School
+Google Doc Physics - Middle School [here](https://docs.google.com/document/d/10OioCkPiCnVJ42OjCKyyoDlP42EXmpEntroqYzl-6jc/edit?usp=drive_link)
+
 Google Doc Physics - SAT Prep
 
 High School here 
-[https://docs.google.com/document/d/1-YAGSm3_zRU5Tm06-2tJ6YsAU9371S-G_iQqJW7PIrk/edit?tab=t.0#heading=h.bvah1lgwrbey](https://docs.google.com/document/d/10OioCkPiCnVJ42OjCKyyoDlP42EXmpEntroqYzl-6jc/edit?usp=drive_link)
+[here](https://docs.google.com/document/d/10OioCkPiCnVJ42OjCKyyoDlP42EXmpEntroqYzl-6jc/edit?usp=drive_link)
