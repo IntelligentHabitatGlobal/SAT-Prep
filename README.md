@@ -8,12 +8,5 @@ Google Doc Physics - High School [here](https://docs.google.com/document/d/1-YAG
 
 Google Doc Physics - Middle School [here](https://docs.google.com/document/d/10OioCkPiCnVJ42OjCKyyoDlP42EXmpEntroqYzl-6jc/edit?usp=drive_link)
 
-
-
-
-Google Doc SAT - SAT Prep here
-
-
-Link Here
-[here](https://docs.google.com/document/d/1Lp8161obHJWr69gVJTPqlO0kmVSbKwB3oikvTQwm9Qs/edit?usp=drive_link)
+Google Doc SAT - SAT Prep [here](https://docs.google.com/document/d/1Lp8161obHJWr69gVJTPqlO0kmVSbKwB3oikvTQwm9Qs/edit?usp=drive_link)
 
