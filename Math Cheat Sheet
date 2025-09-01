@@ -1,0 +1,4 @@
+slope(m) = (y2-y1)/(x2-x1)
+slope = 1st derivative
+to get y intercept, substitute 0 for x.   to get x intercept, substitute 0 for y
+
