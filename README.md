@@ -10,4 +10,4 @@ Google Doc Physics - [Middle School](https://docs.google.com/document/d/10OioCkP
 
 Google Doc SAT - [SAT Prep ](https://docs.google.com/document/d/1Lp8161obHJWr69gVJTPqlO0kmVSbKwB3oikvTQwm9Qs/edit?usp=drive_link)
 
-Cool graphing page [graphing page](https://www.desmos.com/testing/cb-sat-ap/graphing)
+Cool [graphing page](https://www.desmos.com/testing/cb-sat-ap/graphing)
