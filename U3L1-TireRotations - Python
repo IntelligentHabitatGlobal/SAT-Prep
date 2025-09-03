@@ -1,0 +1,24 @@
+The 36 -inch tires on a pickup truck have a circumference of 9.42 feet. 
+To the nearest whole rotation, how many rotations must the tires make 
+for the truck to travel 2 miles in a straight line? (1 mile=5,280 feet)
+
+
+
+# Calculate the total distance in feet
+miles = 2
+feet_per_mile = 5280
+total_feet = miles * feet_per_mile
+
+# Tire circumference in feet
+circumference_feet = 9.42
+
+# Calculate the number of rotations
+rotations = total_feet / circumference_feet
+
+# Round to the nearest whole number
+rounded_rotations = round(rotations)
+
+print(f"Total distance in feet: {total_feet}")
+print(f"Number of rotations: {rotations}")
+print(f"Rounded rotations: {rounded_rotations}")
+
